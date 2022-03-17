@@ -188,6 +188,7 @@
     "mimic-fn": "^2.1.0",
     "minimatch": "^3.1.2",
     "minimist": "^1.2.5",
+    "morgan": "^1.10.0",
     "ms": "^2.0.0",
     "mysql2": "^2.3.3",
     "named-placeholders": "^1.1.2",
@@ -195,6 +196,7 @@
     "negotiator": "^0.6.3",
     "node-int64": "^0.4.0",
     "node-releases": "^2.0.2",
+    "nodemon": "^2.0.15",
     "normalize-path": "^3.0.0",
     "npm-run-path": "^4.0.1",
     "nwsapi": "^2.2.0",
@@ -319,5 +321,5 @@
   "homepage": "https://github.com/ArbiNazari/u-develop-it#readme",
   "devDependencies": {
     "jest": "^27.5.1"
-  }
+  }"prelude-ls"
 }
